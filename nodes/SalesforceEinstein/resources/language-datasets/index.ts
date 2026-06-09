@@ -348,7 +348,7 @@ export const languageDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -410,7 +410,7 @@ export const languageDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -472,7 +472,7 @@ export const languageDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Deletion Id",

@@ -193,7 +193,7 @@ export const languageTrainingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"required": true,
 			"description": "Model Id",

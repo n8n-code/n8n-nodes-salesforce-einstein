@@ -14,14 +14,14 @@ import { languagePredictionDescription } from './resources/language-prediction';
 
 export class SalesforceEinstein implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'salesforce-einstein',
+		displayName: 'Salesforce Einstein',
 		name: 'N8nDevSalesforceEinstein',
 		icon: { light: 'file:./salesforce-einstein.svg', dark: 'file:./salesforce-einstein.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Provided by Salesforce � Copyright 2000�2020 salesforce.com, inc. All rights reserved. Salesforce is a registered trademark of salesforce.com, inc., as are other n..',
-		defaults: { name: 'salesforce-einstein' },
+		defaults: { name: 'Salesforce Einstein' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-salesforce-einstein",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provided by Salesforce � Copyright 2000�2020 salesforce.com, inc. All rights reserved. Salesforce is a registered trademark of salesforce.com, inc., as are other n..",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-salesforce-einstein",
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "salesforce-einstein"

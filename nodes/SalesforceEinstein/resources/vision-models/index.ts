@@ -135,7 +135,7 @@ export const visionModelsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -197,12 +197,12 @@ export const visionModelsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"required": true,
-			"description": "Model Id",
 			"default": "SomeModelId",
 			"type": "string",
+			"description": "Model Id",
 			"displayOptions": {
 				"show": {
 					"resource": [
@@ -259,12 +259,12 @@ export const visionModelsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"required": true,
-			"description": "Model Id",
 			"default": "SomeModelId",
 			"type": "string",
+			"description": "Model Id",
 			"displayOptions": {
 				"show": {
 					"resource": [
@@ -321,12 +321,12 @@ export const visionModelsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"required": true,
-			"description": "Model Id",
 			"default": "SomeModelId",
 			"type": "string",
+			"description": "Model Id",
 			"displayOptions": {
 				"show": {
 					"resource": [

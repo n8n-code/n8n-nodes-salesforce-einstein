@@ -193,12 +193,12 @@ export const visionTrainingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"required": true,
-			"description": "Model Id",
 			"default": "SomeModelId",
 			"type": "string",
+			"description": "Model Id",
 			"displayOptions": {
 				"show": {
 					"resource": [

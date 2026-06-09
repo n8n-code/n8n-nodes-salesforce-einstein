@@ -53,20 +53,122 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Check API Usage | Get api isage |
-| Authorization | Post generate an oauth token, Delete a refresh token |
-| Vision Datasets | Get all datasets, Post create a dataset, Post create a dataset from a zip file asynchronously, Post create a dataset from a zip file synchronously, Delete a dataset, Get a dataset, Get deletion status |
-| Vision Examples | Put create feedback examples from a zip file, Get all examples, Post create an example, Put create examples from a zip file, Get all examples for label, Post create a feedback example |
-| Vision Training | Post retrain a dataset, Post train a dataset, Get training status |
-| Vision Models | Get all models, Delete a model, Get model metrics, Get model learning curve |
-| Vision Prediction | Post detection with image file, Post detect text, Post make prediction |
-| Language Datasets | Get all datasets, Post create a dataset from a file asynchronously, Post create a dataset from a file synchronously, Delete a dataset, Get a dataset, Get deletion status |
-| Language Examples | Get all examples, Put create examples from a file, Get all examples for label, Post create a feedback example |
-| Language Training | Post retrain a dataset, Post train a dataset, Get training status |
-| Language Models | Get all models, Delete a model, Get model metrics, Get model learning curve |
-| Language Prediction | Post prediction for intent, Post prediction for sentiment |
+<details>
+<summary><b>Check API Usage</b> (1 operations)</summary>
+
+- Get API Isage
+
+</details>
+
+<details>
+<summary><b>Authorization</b> (2 operations)</summary>
+
+- Post Generate an OAUTH Token
+- Delete a Refresh Token
+
+</details>
+
+<details>
+<summary><b>Vision Datasets</b> (7 operations)</summary>
+
+- Get All Datasets
+- Post Create a Dataset
+- Post Create a Dataset From a Zip File Asynchronously
+- Post Create a Dataset From a Zip File Synchronously
+- Delete a Dataset
+- Get a Dataset
+- Get Deletion Status
+
+</details>
+
+<details>
+<summary><b>Vision Examples</b> (6 operations)</summary>
+
+- Put Create Feedback Examples From a Zip File
+- Get All Examples
+- Post Create an Example
+- Put Create Examples From a Zip File
+- Get All Examples for Label
+- Post Create a Feedback Example
+
+</details>
+
+<details>
+<summary><b>Vision Training</b> (3 operations)</summary>
+
+- Post Retrain a Dataset
+- Post Train a Dataset
+- Get Training Status
+
+</details>
+
+<details>
+<summary><b>Vision Models</b> (4 operations)</summary>
+
+- Get All Models
+- Delete a Model
+- Get Model Metrics
+- Get Model Learning Curve
+
+</details>
+
+<details>
+<summary><b>Vision Prediction</b> (3 operations)</summary>
+
+- Post Detection with Image File
+- Post Detect Text
+- Post Make Prediction
+
+</details>
+
+<details>
+<summary><b>Language Datasets</b> (6 operations)</summary>
+
+- Get All Datasets
+- Post Create a Dataset From a File Asynchronously
+- Post Create a Dataset From a File Synchronously
+- Delete a Dataset
+- Get a Dataset
+- Get Deletion Status
+
+</details>
+
+<details>
+<summary><b>Language Examples</b> (4 operations)</summary>
+
+- Get All Examples
+- Put Create Examples From a File
+- Get All Examples for Label
+- Post Create a Feedback Example
+
+</details>
+
+<details>
+<summary><b>Language Training</b> (3 operations)</summary>
+
+- Post Retrain a Dataset
+- Post Train a Dataset
+- Get Training Status
+
+</details>
+
+<details>
+<summary><b>Language Models</b> (4 operations)</summary>
+
+- Get All Models
+- Delete a Model
+- Get Model Metrics
+- Get Model Learning Curve
+
+</details>
+
+<details>
+<summary><b>Language Prediction</b> (2 operations)</summary>
+
+- Post Prediction for Intent
+- Post Prediction for Sentiment
+
+</details>
 
 ---
 

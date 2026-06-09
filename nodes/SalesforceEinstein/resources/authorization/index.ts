@@ -15,8 +15,8 @@ export const authorizationDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "Generate Token V 2",
-					"value": "Generate Token V 2",
+					"name": "Generate Token v2",
+					"value": "Generate Token v2",
 					"action": "Generate an OAuth Token",
 					"description": "Returns an OAuth access token or a refresh token. You must pass a valid access token in the header of each API call.",
 					"routing": {
@@ -27,8 +27,8 @@ export const authorizationDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Revoke Refresh Token V 2",
-					"value": "Revoke Refresh Token V 2",
+					"name": "Revoke Refresh Token v2",
+					"value": "Revoke Refresh Token v2",
 					"action": "Delete a Refresh Token",
 					"description": "Delete a Refresh Token",
 					"routing": {
@@ -55,7 +55,7 @@ export const authorizationDescription: INodeProperties[] = [
 						"Authorization"
 					],
 					"operation": [
-						"Generate Token V 2"
+						"Generate Token v2"
 					]
 				}
 			}
@@ -71,7 +71,7 @@ export const authorizationDescription: INodeProperties[] = [
 						"Authorization"
 					],
 					"operation": [
-						"Generate Token V 2"
+						"Generate Token v2"
 					]
 				}
 			}
@@ -90,7 +90,7 @@ export const authorizationDescription: INodeProperties[] = [
 						"Authorization"
 					],
 					"operation": [
-						"Revoke Refresh Token V 2"
+						"Revoke Refresh Token v2"
 					]
 				}
 			}
@@ -108,7 +108,7 @@ export const authorizationDescription: INodeProperties[] = [
 						"Authorization"
 					],
 					"operation": [
-						"Revoke Refresh Token V 2"
+						"Revoke Refresh Token v2"
 					]
 				}
 			}
@@ -133,7 +133,7 @@ export const authorizationDescription: INodeProperties[] = [
 						"Authorization"
 					],
 					"operation": [
-						"Revoke Refresh Token V 2"
+						"Revoke Refresh Token v2"
 					]
 				}
 			}

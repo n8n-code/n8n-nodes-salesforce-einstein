@@ -88,7 +88,7 @@ export const languagePredictionDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"type": "string",
 			"default": "WJH4YCA7YX4PCWVNCYNWYHBMY4",
@@ -138,7 +138,7 @@ export const languagePredictionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sample Id",
+			"displayName": "Sample ID",
 			"name": "sampleId",
 			"type": "string",
 			"default": "",
@@ -234,7 +234,7 @@ export const languagePredictionDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"type": "string",
 			"default": "WJH4YCA7YX4PCWVNCYNWYHBMY4",
@@ -284,7 +284,7 @@ export const languagePredictionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sample Id",
+			"displayName": "Sample ID",
 			"name": "sampleId",
 			"type": "string",
 			"default": "",

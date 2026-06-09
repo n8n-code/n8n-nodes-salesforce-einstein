@@ -74,7 +74,7 @@ export const visionPredictionDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"type": "string",
 			"default": "YCQ4ZACEPJFGXZNRA6ERF3GL5E",
@@ -124,7 +124,7 @@ export const visionPredictionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sample Id",
+			"displayName": "Sample ID",
 			"name": "sampleId",
 			"type": "string",
 			"default": "",
@@ -279,7 +279,7 @@ export const visionPredictionDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Model Id",
+			"displayName": "Model ID",
 			"name": "modelId",
 			"type": "string",
 			"default": "WJH4YCA7YX4PCWVNCYNWYHBMY4",
@@ -354,7 +354,7 @@ export const visionPredictionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sample Id",
+			"displayName": "Sample ID",
 			"name": "sampleId",
 			"type": "string",
 			"default": "",

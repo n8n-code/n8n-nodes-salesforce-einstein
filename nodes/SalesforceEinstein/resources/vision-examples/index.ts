@@ -169,7 +169,7 @@ export const visionExamplesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -320,7 +320,7 @@ export const visionExamplesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -398,7 +398,7 @@ export const visionExamplesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -476,7 +476,7 @@ export const visionExamplesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Label Id",
+			"displayName": "Label ID",
 			"name": "labelId",
 			"description": "Label Id",
 			"default": "SomeLabelId",

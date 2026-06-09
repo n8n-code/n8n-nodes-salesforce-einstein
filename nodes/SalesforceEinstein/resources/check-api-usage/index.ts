@@ -15,8 +15,8 @@ export const checkApiUsageDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "Get Api Usage Plans V 2",
-					"value": "Get Api Usage Plans V 2",
+					"name": "Get API Usage Plans v2",
+					"value": "Get API Usage Plans v2",
 					"action": "Get API Isage",
 					"description": "Returns prediction usage on a monthly basis for the current calendar month and future months. Each apiusage object in the response corresponds to a calendar month in your plan.",
 					"routing": {
@@ -43,7 +43,7 @@ export const checkApiUsageDescription: INodeProperties[] = [
 						"Check API Usage"
 					],
 					"operation": [
-						"Get Api Usage Plans V 2"
+						"Get API Usage Plans v2"
 					]
 				}
 			}
@@ -68,7 +68,7 @@ export const checkApiUsageDescription: INodeProperties[] = [
 						"Check API Usage"
 					],
 					"operation": [
-						"Get Api Usage Plans V 2"
+						"Get API Usage Plans v2"
 					]
 				}
 			}

@@ -8,7 +8,7 @@ import type {
 export class SalesforceEinsteinApi implements ICredentialType {
 	name = 'N8nDevSalesforceEinsteinApi';
 
-	displayName = 'salesforce-einstein API';
+	displayName = 'Salesforce Einstein API';
 
 	icon: Icon = { light: 'file:../nodes/SalesforceEinstein/salesforce-einstein.svg', dark: 'file:../nodes/SalesforceEinstein/salesforce-einstein.dark.svg' };
 
@@ -22,7 +22,7 @@ export class SalesforceEinsteinApi implements ICredentialType {
 			default: 'http://salesforce.local',
 			required: true,
 			placeholder: 'http://salesforce.local',
-			description: 'The base URL of your salesforce-einstein API server',
+			description: 'The base URL of your Salesforce Einstein API server',
 		},
 		{
 			displayName: 'API Key',

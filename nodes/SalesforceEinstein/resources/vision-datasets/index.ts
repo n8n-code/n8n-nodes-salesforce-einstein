@@ -420,7 +420,7 @@ export const visionDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -482,7 +482,7 @@ export const visionDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Dataset Id",
+			"displayName": "Dataset ID",
 			"name": "datasetId",
 			"required": true,
 			"description": "Dataset Id",
@@ -544,7 +544,7 @@ export const visionDatasetsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Deletion Id",
